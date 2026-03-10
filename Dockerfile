@@ -2,7 +2,7 @@
 FROM node:7-onbuild
 
 # set maintainer
-LABEL maintainer "Docker Assignment"
+LABEL maintainer "academy@release.works"
 
 # set a health check
 HEALTHCHECK --interval=5s \
